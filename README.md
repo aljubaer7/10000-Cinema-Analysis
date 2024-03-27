@@ -1,4 +1,4 @@
-# 10k Cinema
+# 10000 Cinema
 
 ### Project Overview
 
