@@ -6,9 +6,10 @@ This analysis focuses on the examination of the top 10,000 movies from The Movie
 
 ### Data Source
 
-1. The Movie Data Base (TMDB)
+1. Kaggle
+2. The Movie Data Base (TMDB)
    [Download Here](https://www.kaggle.com/datasets/joebeachcapital/top-10000-most-popular-movies-from-imdb/discussion/433798)
-2. Wikipedia
+3. Wikipedia
 
 ### Tools
 
